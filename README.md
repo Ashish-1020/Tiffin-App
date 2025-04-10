@@ -42,10 +42,6 @@ An Android application built with **Kotlin**, **Firebase**, and **RazorPay** to 
 - 🧩 Reduced app complexity by 30% with modular architecture and dependency injection.
 - 📦 Enabled efficient meal planning and delivery with real-time tracking and notifications.
 
-## 🗓️ Timeline
-
-**Dec 2024 – Present**
-
 ---
 
 ## 🚀 Getting Started (For Developers)
