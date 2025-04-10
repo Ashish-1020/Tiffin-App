@@ -3,7 +3,7 @@
 
 # 🍱 Tiffin App
 
-An Android application built with **Kotlin**, **Firebase**, and **RazorPay** to simplify subscription-based meal delivery services. Designed for both customers and service providers, the app streamlines ordering, delivery tracking, and payments, providing a modern solution to traditional tiffin services.
+An Android application built with **Kotlin**, **Firebase**, and **RazorPay** to simplify subscription-based meal delivery services. Designed for customers , the app streamlines ordering, delivery tracking, and payments, providing a modern solution to traditional tiffin services.
 
 ## 📱 Features
 
